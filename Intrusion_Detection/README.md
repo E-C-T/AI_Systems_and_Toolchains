@@ -1,6 +1,6 @@
-# MQTT IoT: Intrusion Detection
+# MQTT IoT Intrusion Detection
 
-Data Preprocessing and model training with NSL-KDD dataset using 5-fold cross-validation of 2 Spark ML models and 2 TensorFlow models to identify if an attack took place and if so, what attack.
+Data Preprocessing and model training with MQTT IOT Intrusion Detection Sataset using 5-fold cross-validation of 2 Spark ML models and 2 TensorFlow models to identify if an attack took place and if so, what attack.
 
 **Constraints and Feature Description**
 
