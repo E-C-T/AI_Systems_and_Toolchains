@@ -1,4 +1,4 @@
-# AI_Systems_and_Toolchains
+# AI Systems and Toolchains
 
 This repo explores practical aspects of implementing ML and AI systems at large scale. Key topics include:
 * Data collection and storage
